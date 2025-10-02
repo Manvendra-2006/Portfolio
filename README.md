@@ -19,10 +19,3 @@ My personal portfolio website built with a modern design and interactive feature
 - Include more interactive UI elements  
 - Add additional projects and experience sections  
 
-## Live Demo
-[](#)  
-
-## Author
-- *Manvendra Bhardwaj*
-- GitHub: [Manvendra-2006](https://github.com/Manvendra-2006)
-- LinkedIn: [Profile Link](https://www.linkedin.com/in/manvendrabhardwaj-tech)
