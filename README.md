@@ -13,7 +13,7 @@ This website focuses on delivering a smooth user experience with responsive desi
 
 4. Skills Display: Skills are presented using interactive tags for a clean and organized look.
 
-Future Enhancements
+## Future Enhancements
 
 1. Full Responsiveness: Ensure seamless performance and appearance across all devices and screen sizes.
 
