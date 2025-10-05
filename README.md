@@ -1,28 +1,35 @@
-# Portfolio Website
-My personal portfolio website built with a modern design and interactive features. This website is developed using *HTML, CSS, and JavaScript*.  
+## Personal Portfolio Website
+
+A modern and interactive portfolio website built to showcase my projects, skills, and experience as a Frontend Developer.
+This website focuses on delivering a smooth user experience with responsive design, engaging animations, and easy navigation.
 
 ## Features
-- *Animated UI:* Smooth animations have been implemented throughout the website to make the user experience more engaging.  
-- *Contact Section:* Users can send messages directly through the contact form, which are received in my Gmail account.  
-- *Projects Showcase:* Live links for my projects are available so visitors can explore them easily.  
-- *Skills Display:* My skills are displayed with tags for a clean and organized view.  
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
+1. Animated UI: Smooth and dynamic animations are implemented throughout the website to enhance user interaction and engagement.
 
-## Future Enhancements
-- Make the website fully responsive across all devices  
-- Add an image slider to showcase projects and media  
-- Implement 3D animations using *Three.js*  
-- Include more interactive UI elements  
-- Add additional projects and experience sections  
+2. Contact Section: Visitors can send direct messages through the contact form, which are received in my Gmail account.
 
-## Live Demo
-[](#)  
+3. Projects Showcase: All projects include live demo links, allowing visitors to explore them easily.
 
-## Author
-- *Manvendra Bhardwaj*
-- GitHub: [Manvendra-2006](https://github.com/Manvendra-2006)
-- LinkedIn: [Profile Link](https://www.linkedin.com/in/manvendrabhardwaj-tech)
+4. Skills Display: Skills are presented using interactive tags for a clean and organized look.
+
+Future Enhancements
+
+1. Full Responsiveness: Ensure seamless performance and appearance across all devices and screen sizes.
+
+2. Image Slider: Add a responsive image slider to showcase featured projects, screenshots, and media.
+
+3. 3D Animations: Integrate Three.js to create visually appealing 3D effects and interactive scenes.
+
+4. Enhanced Interactivity: Add more interactive UI components for better engagement.
+
+5. Expanded Sections: Include additional sections for new projects, work experience, and achievements.
+
+## Tech Stack:
+1. Frontend: HTML, CSS, JavaScript
+2. Animations: CSS Animations, JavaScript Effects
+3. 3D (Planned): Three.js
+
+## Contact
+Feel free to reach out or explore my work through the live portfolio.
+Portfolio Link: https://portfolio-three-pi-63.vercel.app/
